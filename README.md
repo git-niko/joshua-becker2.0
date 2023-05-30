@@ -1,6 +1,6 @@
 # Joshua Becker: Website ReDesign and Development
 
-[![Joshua Becker written in white script on a black geometric background.](https://github.com/git-niko/joshua-becker2.0/blob/e7d020e0678aebaa1cadc507a09565e5c26e2676/git-promo.png)](https://github.com/git-niko/joshua-becker2.0)
+[![Joshua Becker written in white script on a black geometric background.](https://github.com/git-niko/joshua-becker2.0/blob/e7d020e0678aebaa1cadc507a09565e5c26e2676/git-promo.png)](https://git-niko.github.io/joshua-becker2.0/)
 
 ## Overview
 
