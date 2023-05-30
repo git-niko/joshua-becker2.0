@@ -1,6 +1,8 @@
-# Joshua Becker Website Design and Development
+# Joshua Becker: Website ReDesign and Development
 
 [![Joshua Becker written in white script on a black geometric background.](https://github.com/git-niko/joshua-becker2.0/blob/e7d020e0678aebaa1cadc507a09565e5c26e2676/git-promo.png)](https://github.com/git-niko/joshua-becker2.0)
+
+## Overview
 
 Becomingminimalist.com is a platform featuring author, writer, and philanthropist Joshua Becker, sharing his insights on minimalism through his blog. In addition to the blog, the website also showcases his books, magazines, speaking events and book tours, courses, and mobile app dedicated to minimalism. 
 
@@ -14,10 +16,11 @@ The website is text-heavy with several pages, making it difficult to navigate an
 - jQuery
 - JSON
 - API
+- Visual Studio Code
+- Photoshop
+- Lighthouse
 
 ## Features
-
-The website features:
 
 - Mobile app promo images displayed through an image carousel
 - Option to switch between light and dark mode
